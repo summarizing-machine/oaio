@@ -1,1 +1,1 @@
-### Thingking-Machine (oaio).
+### Summarizing-Machine (oaio).
